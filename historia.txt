@@ -1,14 +1,3 @@
-stash
-cambios para ssh, vamos a ver que pasa
+para probar oootra nota 
 
-
-otra prueba jaja
-
-otro usuaroi
-
-master 1
-
-masrter 2
-
-
-stash
+cambio despues del commit
