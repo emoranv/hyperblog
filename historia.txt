@@ -1,4 +1,4 @@
-
+stash
 cambios para ssh, vamos a ver que pasa
 
 
@@ -9,3 +9,6 @@ otro usuaroi
 master 1
 
 masrter 2
+
+
+stash
